@@ -1,0 +1,4 @@
+[caps]
+platformName = "ios"
+app = "./BlindWizardApp.app"
+deviceName = "iPhone Simulator"
